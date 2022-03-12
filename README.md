@@ -1,1 +1,1 @@
-# statistical-function-library-
+# statistical function library
